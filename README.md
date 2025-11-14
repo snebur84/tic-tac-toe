@@ -1,4 +1,4 @@
-# Tutorial Joga da Velha React
+# Tutorial Jogo da Velha React
 
 Este repositório é a implementação do jogo da velha (tic tac toe) seguindo o tutorial React.
 
